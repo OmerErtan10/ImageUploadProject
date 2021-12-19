@@ -1,0 +1,15 @@
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\bin\Debug\netcoreapp3.1\ImageUploadProject.Business.deps.json
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\bin\Debug\netcoreapp3.1\ImageUploadProject.Business.dll
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\bin\Debug\netcoreapp3.1\ImageUploadProject.Business.pdb
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\bin\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.dll
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\bin\Debug\netcoreapp3.1\ImageUploadProject.Entities.dll
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\bin\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.pdb
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\bin\Debug\netcoreapp3.1\ImageUploadProject.Entities.pdb
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\obj\Debug\netcoreapp3.1\ImageUploadProject.Business.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\obj\Debug\netcoreapp3.1\ImageUploadProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\obj\Debug\netcoreapp3.1\ImageUploadProject.Business.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\obj\Debug\netcoreapp3.1\ImageUploadProject.Business.AssemblyInfo.cs
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\obj\Debug\netcoreapp3.1\ImageUploadProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\obj\Debug\netcoreapp3.1\ImageUploadProject.Business.csproj.CopyComplete
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\obj\Debug\netcoreapp3.1\ImageUploadProject.Business.dll
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Business\obj\Debug\netcoreapp3.1\ImageUploadProject.Business.pdb

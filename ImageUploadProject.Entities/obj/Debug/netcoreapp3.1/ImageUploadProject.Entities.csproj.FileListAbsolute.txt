@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\bin\Debug\netcoreapp3.1\ImageUploadProject.Entities.deps.json
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\bin\Debug\netcoreapp3.1\ImageUploadProject.Entities.dll
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\bin\Debug\netcoreapp3.1\ImageUploadProject.Entities.pdb
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\obj\Debug\netcoreapp3.1\ImageUploadProject.Entities.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\obj\Debug\netcoreapp3.1\ImageUploadProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\obj\Debug\netcoreapp3.1\ImageUploadProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\obj\Debug\netcoreapp3.1\ImageUploadProject.Entities.AssemblyInfo.cs
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\obj\Debug\netcoreapp3.1\ImageUploadProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\obj\Debug\netcoreapp3.1\ImageUploadProject.Entities.dll
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.Entities\obj\Debug\netcoreapp3.1\ImageUploadProject.Entities.pdb

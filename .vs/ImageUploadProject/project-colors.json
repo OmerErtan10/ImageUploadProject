@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73ec52df-cf27-419c-9fa3-82ccb202eb07": {
+      "ProjectGuid": "73ec52df-cf27-419c-9fa3-82ccb202eb07",
+      "DisplayName": "ImageUploadProject.DataAccess",
+      "ColorIndex": 0
+    },
+    "0a92bab7-1b71-4016-b085-816cbd694983": {
+      "ProjectGuid": "0a92bab7-1b71-4016-b085-816cbd694983",
+      "DisplayName": "ImageUploadProject.Business",
+      "ColorIndex": 1
+    },
+    "c23a6b38-c5a9-4288-ab44-d3846f07eb5e": {
+      "ProjectGuid": "c23a6b38-c5a9-4288-ab44-d3846f07eb5e",
+      "DisplayName": "ImageUploadProject.Entities",
+      "ColorIndex": 2
+    },
+    "f9b4c774-aff0-4d0e-a61b-19e5924497e3": {
+      "ProjectGuid": "f9b4c774-aff0-4d0e-a61b-19e5924497e3",
+      "DisplayName": "ImageUploadProject.WebApi",
+      "ColorIndex": 3
+    },
+    "f7638709-e6c1-4ac1-a4c8-1a49de0c2d27": {
+      "ProjectGuid": "f7638709-e6c1-4ac1-a4c8-1a49de0c2d27",
+      "DisplayName": "ImageUploadProject.WebApi",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

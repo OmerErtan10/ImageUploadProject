@@ -1,0 +1,16 @@
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\bin\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.deps.json
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\bin\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.runtimeconfig.json
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\bin\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.runtimeconfig.dev.json
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\bin\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.dll
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\bin\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.pdb
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\bin\Debug\netcoreapp3.1\ImageUploadProject.Entities.dll
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\bin\Debug\netcoreapp3.1\ImageUploadProject.Entities.pdb
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\obj\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\obj\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\obj\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\obj\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.AssemblyInfo.cs
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\obj\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\obj\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.csproj.CopyComplete
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\obj\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.dll
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\obj\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.pdb
+C:\Users\Omer\source\repos\ImageUploadProject\ImageUploadProject.DataAccess\obj\Debug\netcoreapp3.1\ImageUploadProject.DataAccess.genruntimeconfig.cache
