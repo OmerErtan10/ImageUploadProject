@@ -1,6 +1,9 @@
 ﻿using ImageUploadProject.Business.Interfaces;
+using ImageUploadProject.WebApi.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.IO;
 using System.Threading.Tasks;
 
 namespace ImageUploadProject.WebApi.Controllers
@@ -25,10 +28,32 @@ namespace ImageUploadProject.WebApi.Controllers
             return Ok(await _genericService.FindByIdAsync(id));
         }
         [HttpPost("[action]")]
-        public async Task<IActionResult> Add(Entities.Concrete.Image image)
+        public async Task<IActionResult> Add(ImageAddModel imageAddModel)
         {
-            await _genericService.AddAsync(image);
-            return Ok();
+            if (imageAddModel.Image != null)
+            {
+
+                if (imageAddModel.Image.ContentType != "image/jpeg")
+                {
+                    return BadRequest("Uygunsuz dosya türü");
+                }
+                var newName = Guid.NewGuid() + Path.GetExtension(imageAddModel.Image.FileName);
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img" + newName);
+                var stream = new FileStream(path, FileMode.Create);
+
+                await imageAddModel.Image.CopyToAsync(stream);
+
+                imageAddModel.ImagePath = newName;
+
+                await _genericService.AddAsync(new Entities.Concrete.Image
+                {
+                    Name = imageAddModel.Name,
+                    ImagePath = imageAddModel.ImagePath
+                });
+                return Created("", imageAddModel);
+
+            }
+            return BadRequest("Resim dosyası yok");
         }
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)

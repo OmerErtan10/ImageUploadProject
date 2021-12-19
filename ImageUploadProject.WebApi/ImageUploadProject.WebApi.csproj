@@ -8,5 +8,9 @@
     <ProjectReference Include="..\ImageUploadProject.Business\ImageUploadProject.Business.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\img\" />
+  </ItemGroup>
+
 
 </Project>
